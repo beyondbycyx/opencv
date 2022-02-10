@@ -1,5 +1,5 @@
 ## OpenCV: Open Source Computer Vision Library
-
+http://c.biancheng.net/opencv/ 中文学习教程
 ### Resources
 
 * Homepage: <https://opencv.org>
